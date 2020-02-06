@@ -1,0 +1,13 @@
+/* Este es un
+   comentario CSS de varias
+   lineas */
+
+body{
+  margin-top: 200px;
+}
+h1{
+
+  text-align:center;
+  background:rgb(255,255,255,0.5);
+  padding:5px;
+}
